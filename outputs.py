@@ -6,13 +6,21 @@ import plants_array as plants
 import graph_construction_and_draw as gc
 from classes import Instruction
 
+###  OUTPUTS  ###
+
+# Writes the outputs in two different files :
+# output.txt which contains all the instructions that the robotic arm will have to perform
+# output2.txt which contains the states of all the growth modules for each day
 def write_outputs():
 	original_stdout = sys.stdout
+	
+	# Writing the instructions output
 	f = open("output.txt", "w")
 	sys.stdout = f
 
 	instructions = [[] for i in range(inputs.HORIZON + 2)]
 
+	# Three types of instructions (See the Instruction() class in the classes.py file)
 	for e in gc.g.edges:
 		if e[0].type == 'hole' and e[1].type == 'hole' and e[0].where != e[1].where:
 			for p in plants.plants:
@@ -39,7 +47,8 @@ def write_outputs():
 
 	sys.stdout = original_stdout
 	f.close()
-
+	
+	# Writing the growth modules states output
 	f = open("output2.txt", "w")
 
 	states = [[[] for i in range(inputs.HORIZON + 1)] for k in range(inputs.TRAYS)]

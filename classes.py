@@ -1,5 +1,21 @@
 import inputs
 
+###  ALL THE CLASSES  ###
+
+## NODE CLASS ##
+
+# This class defines a node of the graph
+
+# Arguments of a hole :
+# - where : gives the position on the graph to be able to draw it
+# - when : gives the time that this node represent (if it is a 'hole')
+# - sink : true only if the node is a sink
+# - type : the type of the node (hole, source, sink)
+# If the node is of type 'hole' :
+# - tray : gives the tray in which the hole is (from 0 to TRAYS-1)
+# - hole : gives the number of the hole (from 0 to HOLES-1)
+
+
 class Node(object):
     def __init__(self, *args):
 
@@ -26,6 +42,7 @@ class Node(object):
             self.sink = True
             self.type = 'sink'
 
+        # True if the two holes are neighbors
     def neighbors(self, other):
         return self.type == 'hole' and other.type == 'hole' and self.when == other.when and abs(self.where - other.where) == 1
 
@@ -34,7 +51,20 @@ class Node(object):
 
     def __hash__(self):
         return hash((self.where, self.when, self.type))
-        
+
+## PLANT CLASS ##
+
+# This class defines a plant in our system
+
+# Arguments of a plant :
+# - name : the name of the plant
+# - total_days : the total number of days, from the seeding to the harvesting
+# - color : the color of the plant on the optimized graph
+# - size : the different sizes in time of the plant
+# - transfers : list of the growth module in which the plant has to pass (in the list order)
+# - transfer_days : gives the number of days the plant has to stay in each growth module
+
+
 class Plant():
     def __init__(self, name, total_days, color, size, transfers, transfer_days):
         self.name = name
@@ -44,12 +74,29 @@ class Plant():
         self.transfers = transfers
         self.transfer_days = transfer_days
 
+        # Source of the plant
     def source(self, size):
         return Node('source', -3, size)
 
+        # Sink of the plant
     def sink(self, size):
         return Node('sink', inputs.TRAYS * (inputs.HOLES + 2) + 1, size)
-        
+
+## INSTRUCTION CLASS ##
+
+# This class defines an instruction that the robotic arm will have to perform
+
+# Arguments of an instruction :
+# - name : the name of the plant
+# - type : the type of the transfer (hole, source, sink)
+# For a hole transfer :
+# - hole_from : the hole from which the plant comes
+# - hole_to : the hole in which the plant goes
+# - tray_from : the growth module from which the plant comes
+# - tray_to : the growth module in which the plant goes
+# Arguments for the source and sink transfers mean the same as the arguments for hole transfers
+
+
 class Instruction():
     def __init__(self, name, *args):
         self.name = name
@@ -70,6 +117,7 @@ class Instruction():
             self.tray_from = args[2]
             self.type = 'sink'
 
+        # Return the instruction as a string that will be put in the output.txt file for the robotic arm
     def toString(self):
         if(self.type == 'hole'):
             return "Move the " + self.name + " from hole " + str(self.hole_from) + \

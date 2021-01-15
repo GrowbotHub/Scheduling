@@ -1,71 +1,71 @@
 GROWTH MODULE 0
 DAY 0
-Hole : 2 | Plant : Lettuce
-Hole : 0 | Plant : Endive
+Hole : 0 | Plant : Lettuce
 Hole : 1 | Plant : Endive
+Hole : 4 | Plant : Endive
 DAY 1
-Hole : 0 | Plant : Endive
+Hole : 0 | Plant : Lettuce
 Hole : 1 | Plant : Endive
-Hole : 2 | Plant : Lettuce
+Hole : 4 | Plant : Endive
 DAY 2
 Hole : 0 | Plant : Lettuce
-Hole : 1 | Plant : Lettuce
 Hole : 2 | Plant : Lettuce
+Hole : 3 | Plant : Lettuce
 DAY 3
-Hole : 0 | Plant : Lettuce
-Hole : 1 | Plant : Lettuce
-Hole : 2 | Plant : Endive
-Hole : 3 | Plant : Endive
+Hole : 0 | Plant : Endive
+Hole : 1 | Plant : Endive
+Hole : 2 | Plant : Lettuce
+Hole : 3 | Plant : Lettuce
 Hole : 4 | Plant : Endive
 DAY 4
-Hole : 2 | Plant : Endive
-Hole : 0 | Plant : Fennel
-Hole : 4 | Plant : Fennel
+Hole : 4 | Plant : Endive
+Hole : 2 | Plant : Fennel
 Hole : 1 | Plant : Fennel
 Hole : 3 | Plant : Fennel
+Hole : 0 | Plant : Fennel
 DAY 5
 Hole : 0 | Plant : Fennel
 Hole : 1 | Plant : Fennel
-Hole : 2 | Plant : Endive
+Hole : 2 | Plant : Fennel
 Hole : 3 | Plant : Fennel
-Hole : 4 | Plant : Fennel
+Hole : 4 | Plant : Endive
 DAY 6
 Hole : 0 | Plant : Endive
-Hole : 2 | Plant : Endive
+Hole : 3 | Plant : Endive
 Hole : 4 | Plant : Endive
 DAY 7
 Hole : 4 | Plant : Endive
-Hole : 2 | Plant : Fennel
+Hole : 1 | Plant : Fennel
 Hole : 3 | Plant : Fennel
 DAY 8
-Hole : 0 | Plant : Lettuce
-Hole : 2 | Plant : Fennel
+Hole : 0 | Plant : Endive
+Hole : 1 | Plant : Fennel
+Hole : 2 | Plant : Lettuce
 Hole : 3 | Plant : Fennel
-Hole : 4 | Plant : Endive
 DAY 9
-Hole : 0 | Plant : Lettuce
 Hole : 1 | Plant : Endive
-Hole : 2 | Plant : Endive
-Hole : 4 | Plant : Fennel
+Hole : 2 | Plant : Lettuce
+Hole : 3 | Plant : Endive
 DAY 10
+Hole : 0 | Plant : Endive
 Hole : 1 | Plant : Endive
-Hole : 2 | Plant : Endive
-Hole : 4 | Plant : Fennel
 DAY 11
 Hole : 0 | Plant : Lettuce
 Hole : 1 | Plant : Lettuce
-Hole : 2 | Plant : Lettuce
-Hole : 3 | Plant : Endive
+Hole : 2 | Plant : Endive
+Hole : 3 | Plant : Lettuce
 Hole : 4 | Plant : Lettuce
 DAY 12
 Hole : 0 | Plant : Lettuce
 Hole : 1 | Plant : Lettuce
-Hole : 2 | Plant : Lettuce
+Hole : 3 | Plant : Lettuce
 Hole : 4 | Plant : Lettuce
 DAY 13
 Hole : 2 | Plant : Fennel
+Hole : 3 | Plant : Fennel
 DAY 14
 Hole : 2 | Plant : Fennel
+Hole : 3 | Plant : Fennel
 GROWTH MODULE 1
 DAY 0
 Hole : 1 | Plant : Fennel
@@ -90,140 +90,140 @@ Hole : 3 | Plant : Fennel
 Hole : 4 | Plant : Fennel
 DAY 4
 Hole : 1 | Plant : Lettuce
-Hole : 4 | Plant : Lettuce
+Hole : 3 | Plant : Lettuce
 Hole : 0 | Plant : Lettuce
 Hole : 2 | Plant : Fennel
-Hole : 3 | Plant : Fennel
+Hole : 4 | Plant : Fennel
 DAY 5
 Hole : 0 | Plant : Lettuce
 Hole : 1 | Plant : Lettuce
 Hole : 2 | Plant : Fennel
-Hole : 3 | Plant : Fennel
-Hole : 4 | Plant : Lettuce
+Hole : 3 | Plant : Lettuce
+Hole : 4 | Plant : Fennel
 DAY 6
-Hole : 0 | Plant : Fennel
 Hole : 1 | Plant : Lettuce
 Hole : 2 | Plant : Fennel
-Hole : 3 | Plant : Fennel
-Hole : 4 | Plant : Lettuce
+Hole : 3 | Plant : Lettuce
+Hole : 4 | Plant : Fennel
 DAY 7
-Hole : 0 | Plant : Fennel
+Hole : 3 | Plant : Strawberry
 Hole : 2 | Plant : Strawberry
 Hole : 1 | Plant : Strawberry
-Hole : 3 | Plant : Strawberry
 Hole : 4 | Plant : Strawberry
+Hole : 0 | Plant : Strawberry
 DAY 8
-Hole : 0 | Plant : Fennel
+Hole : 0 | Plant : Strawberry
 Hole : 1 | Plant : Strawberry
 Hole : 2 | Plant : Strawberry
 Hole : 3 | Plant : Strawberry
 Hole : 4 | Plant : Strawberry
 DAY 9
+Hole : 0 | Plant : Strawberry
 Hole : 1 | Plant : Strawberry
 Hole : 2 | Plant : Strawberry
 Hole : 3 | Plant : Strawberry
 Hole : 4 | Plant : Strawberry
-Hole : 0 | Plant : Strawberry
 DAY 10
-Hole : 4 | Plant : Lettuce
+Hole : 2 | Plant : Lettuce
+Hole : 3 | Plant : Fennel
+Hole : 4 | Plant : Fennel
 Hole : 0 | Plant : Strawberry
-Hole : 2 | Plant : Fennel
-Hole : 3 | Plant : Strawberry
 Hole : 1 | Plant : Strawberry
 DAY 11
 Hole : 0 | Plant : Strawberry
 Hole : 1 | Plant : Strawberry
-Hole : 2 | Plant : Fennel
-Hole : 3 | Plant : Strawberry
-Hole : 4 | Plant : Lettuce
-DAY 12
-Hole : 1 | Plant : Strawberry
-Hole : 2 | Plant : Fennel
-Hole : 3 | Plant : Strawberry
-Hole : 4 | Plant : Lettuce
-Hole : 0 | Plant : Strawberry
-DAY 13
 Hole : 2 | Plant : Lettuce
-Hole : 1 | Plant : Lettuce
+Hole : 3 | Plant : Fennel
+Hole : 4 | Plant : Fennel
+DAY 12
+Hole : 0 | Plant : Strawberry
+Hole : 1 | Plant : Strawberry
+Hole : 2 | Plant : Lettuce
+Hole : 3 | Plant : Fennel
+Hole : 4 | Plant : Fennel
+DAY 13
 Hole : 3 | Plant : Lettuce
+Hole : 2 | Plant : Lettuce
 Hole : 4 | Plant : Lettuce
-Hole : 0 | Plant : Strawberry
+Hole : 0 | Plant : Lettuce
+Hole : 1 | Plant : Strawberry
 DAY 14
-Hole : 0 | Plant : Strawberry
-Hole : 1 | Plant : Lettuce
+Hole : 0 | Plant : Lettuce
+Hole : 1 | Plant : Strawberry
 Hole : 2 | Plant : Lettuce
 Hole : 3 | Plant : Lettuce
 Hole : 4 | Plant : Lettuce
 DAY 15
-Hole : 1 | Plant : Lettuce
+Hole : 0 | Plant : Lettuce
+Hole : 1 | Plant : Strawberry
 Hole : 2 | Plant : Lettuce
 Hole : 3 | Plant : Lettuce
 Hole : 4 | Plant : Lettuce
 GROWTH MODULE 2
 DAY 2
-Hole : 0 | Plant : Endive
-Hole : 1 | Plant : Endive
+Hole : 4 | Plant : Endive
+Hole : 2 | Plant : Endive
 DAY 3
-Hole : 0 | Plant : Endive
-Hole : 1 | Plant : Endive
+Hole : 2 | Plant : Endive
+Hole : 4 | Plant : Endive
 DAY 4
-Hole : 4 | Plant : Endive
-Hole : 3 | Plant : Endive
-Hole : 2 | Plant : Endive
-Hole : 0 | Plant : Endive
 Hole : 1 | Plant : Endive
+Hole : 3 | Plant : Endive
+Hole : 0 | Plant : Endive
+Hole : 2 | Plant : Endive
+Hole : 4 | Plant : Endive
 DAY 5
-Hole : 0 | Plant : Endive
-Hole : 2 | Plant : Endive
-Hole : 3 | Plant : Endive
 Hole : 4 | Plant : Endive
-DAY 6
-Hole : 1 | Plant : Endive
 Hole : 0 | Plant : Endive
+Hole : 1 | Plant : Endive
+Hole : 3 | Plant : Endive
+DAY 6
 Hole : 2 | Plant : Endive
+Hole : 0 | Plant : Endive
+Hole : 1 | Plant : Endive
 Hole : 3 | Plant : Endive
 Hole : 4 | Plant : Endive
 DAY 7
-Hole : 4 | Plant : Endive
-Hole : 3 | Plant : Endive
-Hole : 2 | Plant : Endive
-Hole : 0 | Plant : Endive
 Hole : 1 | Plant : Endive
+Hole : 3 | Plant : Endive
+Hole : 0 | Plant : Endive
+Hole : 2 | Plant : Endive
+Hole : 4 | Plant : Endive
 DAY 8
+Hole : 4 | Plant : Endive
 Hole : 0 | Plant : Endive
 Hole : 1 | Plant : Endive
 Hole : 2 | Plant : Endive
 Hole : 3 | Plant : Endive
-Hole : 4 | Plant : Endive
 DAY 9
-Hole : 1 | Plant : Endive
-Hole : 0 | Plant : Endive
 Hole : 2 | Plant : Endive
+Hole : 0 | Plant : Endive
+Hole : 1 | Plant : Endive
 Hole : 3 | Plant : Endive
 Hole : 4 | Plant : Endive
 DAY 10
-Hole : 4 | Plant : Endive
-Hole : 2 | Plant : Endive
 Hole : 0 | Plant : Endive
 Hole : 1 | Plant : Endive
+Hole : 2 | Plant : Endive
+Hole : 4 | Plant : Endive
 DAY 11
-Hole : 0 | Plant : Endive
-Hole : 3 | Plant : Endive
-Hole : 1 | Plant : Endive
-Hole : 2 | Plant : Endive
 Hole : 4 | Plant : Endive
-DAY 12
-Hole : 1 | Plant : Endive
+Hole : 3 | Plant : Endive
 Hole : 0 | Plant : Endive
+Hole : 1 | Plant : Endive
 Hole : 2 | Plant : Endive
+DAY 12
+Hole : 2 | Plant : Endive
+Hole : 0 | Plant : Endive
+Hole : 1 | Plant : Endive
 Hole : 3 | Plant : Endive
 Hole : 4 | Plant : Endive
 DAY 13
-Hole : 0 | Plant : Endive
-Hole : 1 | Plant : Endive
+Hole : 2 | Plant : Endive
 Hole : 3 | Plant : Endive
+Hole : 4 | Plant : Endive
 DAY 14
-Hole : 1 | Plant : Endive
+Hole : 2 | Plant : Endive
 GROWTH MODULE 3
 GROWTH MODULE 4
 DAY 2
@@ -251,41 +251,41 @@ Hole : 2 | Plant : Raddish
 Hole : 3 | Plant : Raddish
 Hole : 4 | Plant : Raddish
 DAY 6
+Hole : 0 | Plant : Strawberry
 Hole : 3 | Plant : Strawberry
+Hole : 2 | Plant : Strawberry
 Hole : 1 | Plant : Strawberry
 Hole : 4 | Plant : Strawberry
-Hole : 2 | Plant : Strawberry
 DAY 7
-Hole : 0 | Plant : Raddish
 Hole : 1 | Plant : Raddish
 Hole : 2 | Plant : Raddish
+Hole : 3 | Plant : Raddish
 DAY 8
-Hole : 0 | Plant : Raddish
 Hole : 1 | Plant : Raddish
 Hole : 2 | Plant : Raddish
-Hole : 4 | Plant : Strawberry
+Hole : 3 | Plant : Raddish
 DAY 9
-Hole : 0 | Plant : Raddish
 Hole : 1 | Plant : Raddish
 Hole : 2 | Plant : Raddish
-Hole : 3 | Plant : Strawberry
+Hole : 3 | Plant : Raddish
+Hole : 0 | Plant : Strawberry
 Hole : 4 | Plant : Strawberry
 DAY 10
-Hole : 0 | Plant : Raddish
 Hole : 1 | Plant : Raddish
 Hole : 2 | Plant : Raddish
+Hole : 3 | Plant : Raddish
 Hole : 4 | Plant : Raddish
 DAY 11
 Hole : 0 | Plant : Raddish
 Hole : 2 | Plant : Raddish
 Hole : 3 | Plant : Raddish
 Hole : 4 | Plant : Raddish
-Hole : 1 | Plant : Strawberry
 DAY 12
 Hole : 0 | Plant : Raddish
 Hole : 2 | Plant : Raddish
 Hole : 3 | Plant : Raddish
 Hole : 4 | Plant : Raddish
+Hole : 1 | Plant : Strawberry
 DAY 13
 Hole : 0 | Plant : Raddish
 Hole : 2 | Plant : Raddish
@@ -297,9 +297,9 @@ Hole : 2 | Plant : Raddish
 Hole : 3 | Plant : Raddish
 GROWTH MODULE 5
 DAY 4
+Hole : 0 | Plant : Cabbage
 Hole : 4 | Plant : Cabbage
 Hole : 2 | Plant : Cabbage
-Hole : 0 | Plant : Cabbage
 DAY 5
 Hole : 0 | Plant : Cabbage
 Hole : 2 | Plant : Cabbage
@@ -309,119 +309,119 @@ Hole : 3 | Plant : Cabbage
 DAY 6
 Hole : 1 | Plant : Cabbage
 Hole : 3 | Plant : Cabbage
-Hole : 0 | Plant : Cabbage
-Hole : 4 | Plant : Cabbage
 Hole : 2 | Plant : Cabbage
+Hole : 4 | Plant : Cabbage
+Hole : 0 | Plant : Cabbage
 DAY 7
 Hole : 0 | Plant : Cabbage
 Hole : 2 | Plant : Cabbage
 Hole : 4 | Plant : Cabbage
 DAY 9
-Hole : 1 | Plant : Cabbage
-Hole : 3 | Plant : Cabbage
+Hole : 0 | Plant : Cabbage
+Hole : 4 | Plant : Cabbage
 DAY 10
-Hole : 1 | Plant : Cabbage
-Hole : 3 | Plant : Cabbage
 Hole : 0 | Plant : Cabbage
-Hole : 2 | Plant : Cabbage
-DAY 11
-Hole : 0 | Plant : Cabbage
-Hole : 2 | Plant : Cabbage
 Hole : 4 | Plant : Cabbage
 Hole : 1 | Plant : Cabbage
-DAY 12
+Hole : 3 | Plant : Cabbage
+DAY 11
 Hole : 1 | Plant : Cabbage
+Hole : 3 | Plant : Cabbage
+Hole : 4 | Plant : Cabbage
+Hole : 0 | Plant : Cabbage
+DAY 12
+Hole : 0 | Plant : Cabbage
 Hole : 4 | Plant : Cabbage
 DAY 13
 Hole : 1 | Plant : Cabbage
 DAY 14
 Hole : 1 | Plant : Cabbage
 Hole : 4 | Plant : Cabbage
-Hole : 2 | Plant : Cabbage
 Hole : 0 | Plant : Cabbage
+Hole : 2 | Plant : Cabbage
 DAY 15
 Hole : 0 | Plant : Cabbage
 Hole : 2 | Plant : Cabbage
 Hole : 4 | Plant : Cabbage
 GROWTH MODULE 6
 DAY 0
-Hole : 0 | Plant : Cabbage
 Hole : 1 | Plant : Cabbage
 Hole : 2 | Plant : Cabbage
+Hole : 4 | Plant : Cabbage
 DAY 1
-Hole : 0 | Plant : Cabbage
 Hole : 1 | Plant : Cabbage
 Hole : 2 | Plant : Cabbage
+Hole : 4 | Plant : Cabbage
 DAY 2
 Hole : 0 | Plant : Cabbage
-Hole : 4 | Plant : Cabbage
+Hole : 2 | Plant : Cabbage
 DAY 3
 Hole : 0 | Plant : Cabbage
 Hole : 1 | Plant : Cabbage
-Hole : 2 | Plant : Cabbage
+Hole : 3 | Plant : Cabbage
 DAY 5
 Hole : 0 | Plant : Strawberry
+Hole : 1 | Plant : Strawberry
 Hole : 2 | Plant : Strawberry
 Hole : 3 | Plant : Strawberry
 Hole : 4 | Plant : Strawberry
 DAY 6
+Hole : 0 | Plant : Cabbage
 Hole : 3 | Plant : Cabbage
-Hole : 4 | Plant : Cabbage
 DAY 7
-Hole : 1 | Plant : Strawberry
-Hole : 2 | Plant : Cabbage
-Hole : 3 | Plant : Cabbage
-DAY 8
-Hole : 0 | Plant : Strawberry
-Hole : 1 | Plant : Cabbage
-Hole : 2 | Plant : Strawberry
-Hole : 4 | Plant : Cabbage
-DAY 10
-Hole : 3 | Plant : Strawberry
-Hole : 4 | Plant : Cabbage
-DAY 11
 Hole : 0 | Plant : Cabbage
 Hole : 1 | Plant : Cabbage
+DAY 8
+Hole : 0 | Plant : Cabbage
+Hole : 1 | Plant : Strawberry
+Hole : 3 | Plant : Cabbage
+Hole : 4 | Plant : Strawberry
+DAY 10
+Hole : 0 | Plant : Cabbage
+DAY 11
+Hole : 0 | Plant : Strawberry
+Hole : 1 | Plant : Cabbage
+Hole : 2 | Plant : Cabbage
 Hole : 4 | Plant : Cabbage
 GROWTH MODULE 7
 DAY 2
-Hole : 4 | Plant : Cabbage
 Hole : 2 | Plant : Cabbage
-Hole : 1 | Plant : Cabbage
-DAY 3
 Hole : 0 | Plant : Cabbage
+Hole : 4 | Plant : Cabbage
+DAY 3
 Hole : 3 | Plant : Cabbage
 Hole : 1 | Plant : Cabbage
+Hole : 0 | Plant : Cabbage
 Hole : 2 | Plant : Cabbage
 Hole : 4 | Plant : Cabbage
 DAY 4
-Hole : 2 | Plant : Cabbage
 Hole : 4 | Plant : Cabbage
-Hole : 1 | Plant : Cabbage
+Hole : 2 | Plant : Cabbage
 Hole : 0 | Plant : Cabbage
+Hole : 1 | Plant : Cabbage
 Hole : 3 | Plant : Cabbage
 DAY 5
 Hole : 3 | Plant : Endive
-Hole : 0 | Plant : Endive
-Hole : 1 | Plant : Cabbage
+Hole : 1 | Plant : Endive
+Hole : 0 | Plant : Cabbage
 Hole : 2 | Plant : Cabbage
 Hole : 4 | Plant : Cabbage
 DAY 6
 Hole : 4 | Plant : Raddish
-Hole : 2 | Plant : Raddish
-Hole : 3 | Plant : Raddish
 Hole : 0 | Plant : Raddish
 Hole : 1 | Plant : Raddish
+Hole : 3 | Plant : Raddish
+Hole : 2 | Plant : Raddish
 DAY 7
 Hole : 0 | Plant : Endive
 Hole : 2 | Plant : Endive
 Hole : 4 | Plant : Endive
-Hole : 3 | Plant : Cabbage
 Hole : 1 | Plant : Cabbage
+Hole : 3 | Plant : Cabbage
 DAY 8
 Hole : 0 | Plant : Endive
-Hole : 4 | Plant : Cabbage
 Hole : 2 | Plant : Cabbage
+Hole : 4 | Plant : Cabbage
 Hole : 1 | Plant : Cabbage
 Hole : 3 | Plant : Cabbage
 DAY 9
@@ -432,34 +432,34 @@ Hole : 2 | Plant : Cabbage
 Hole : 4 | Plant : Cabbage
 DAY 10
 Hole : 0 | Plant : Endive
-Hole : 4 | Plant : Endive
 Hole : 2 | Plant : Endive
+Hole : 4 | Plant : Endive
 Hole : 1 | Plant : Cabbage
 Hole : 3 | Plant : Cabbage
 DAY 11
-Hole : 4 | Plant : Endive
-Hole : 2 | Plant : Raddish
-Hole : 1 | Plant : Raddish
-Hole : 0 | Plant : Raddish
-Hole : 3 | Plant : Cabbage
-DAY 12
 Hole : 0 | Plant : Endive
-Hole : 2 | Plant : Cabbage
-Hole : 1 | Plant : Cabbage
-Hole : 4 | Plant : Cabbage
-Hole : 3 | Plant : Cabbage
-DAY 13
-Hole : 0 | Plant : Endive
-Hole : 3 | Plant : Endive
-Hole : 1 | Plant : Cabbage
-Hole : 2 | Plant : Cabbage
-Hole : 4 | Plant : Cabbage
-DAY 14
-Hole : 2 | Plant : Endive
-Hole : 0 | Plant : Endive
-Hole : 4 | Plant : Raddish
-DAY 15
-Hole : 0 | Plant : Endive
-Hole : 4 | Plant : Raddish
 Hole : 2 | Plant : Raddish
 Hole : 3 | Plant : Raddish
+Hole : 4 | Plant : Raddish
+Hole : 1 | Plant : Cabbage
+DAY 12
+Hole : 4 | Plant : Endive
+Hole : 0 | Plant : Cabbage
+Hole : 3 | Plant : Cabbage
+Hole : 2 | Plant : Cabbage
+Hole : 1 | Plant : Cabbage
+DAY 13
+Hole : 1 | Plant : Endive
+Hole : 4 | Plant : Endive
+Hole : 0 | Plant : Cabbage
+Hole : 2 | Plant : Cabbage
+Hole : 3 | Plant : Cabbage
+DAY 14
+Hole : 4 | Plant : Endive
+Hole : 0 | Plant : Endive
+Hole : 2 | Plant : Raddish
+DAY 15
+Hole : 4 | Plant : Endive
+Hole : 2 | Plant : Raddish
+Hole : 0 | Plant : Raddish
+Hole : 1 | Plant : Raddish

@@ -1,0 +1,273 @@
+DAY 0
+Plant a seed of Lettuce to hole 0 and tray 0
+Plant a seed of Fennel to hole 1 and tray 1
+Plant a seed of Fennel to hole 2 and tray 1
+Plant a seed of Fennel to hole 3 and tray 1
+Plant a seed of Fennel to hole 4 and tray 1
+Plant a seed of Endive to hole 1 and tray 0
+Plant a seed of Endive to hole 4 and tray 0
+Plant a seed of Cabbage to hole 1 and tray 6
+Plant a seed of Cabbage to hole 2 and tray 6
+Plant a seed of Cabbage to hole 4 and tray 6
+DAY 1
+Plant a seed of Lettuce to hole 2 and tray 0
+Plant a seed of Lettuce to hole 3 and tray 0
+Plant a seed of Cabbage to hole 0 and tray 6
+Plant a seed of Cabbage to hole 2 and tray 6
+Plant a seed of Raddish to hole 0 and tray 4
+Plant a seed of Raddish to hole 1 and tray 4
+Plant a seed of Raddish to hole 2 and tray 4
+Plant a seed of Raddish to hole 3 and tray 4
+Plant a seed of Raddish to hole 4 and tray 4
+DAY 2
+Move the Endive from hole 1 and tray 0 to hole 4 and tray 2
+Move the Endive from hole 4 and tray 0 to hole 2 and tray 2
+Move the Cabbage from hole 1 and tray 6 to hole 2 and tray 7
+Move the Cabbage from hole 2 and tray 6 to hole 0 and tray 7
+Move the Cabbage from hole 4 and tray 6 to hole 4 and tray 7
+Plant a seed of Endive to hole 0 and tray 0
+Plant a seed of Endive to hole 1 and tray 0
+Plant a seed of Endive to hole 4 and tray 0
+Plant a seed of Cabbage to hole 0 and tray 6
+Plant a seed of Cabbage to hole 1 and tray 6
+Plant a seed of Cabbage to hole 3 and tray 6
+DAY 3
+Move the Lettuce from hole 0 and tray 0 to hole 0 and tray 1
+Move the Cabbage from hole 0 and tray 6 to hole 3 and tray 7
+Move the Cabbage from hole 2 and tray 6 to hole 1 and tray 7
+Plant a seed of Fennel to hole 2 and tray 1
+Plant a seed of Fennel to hole 4 and tray 1
+Plant a seed of Endive to hole 4 and tray 0
+DAY 4
+Move the Endive from hole 0 and tray 0 to hole 1 and tray 2
+Move the Endive from hole 1 and tray 0 to hole 3 and tray 2
+Move the Lettuce from hole 2 and tray 0 to hole 1 and tray 1
+Move the Lettuce from hole 3 and tray 0 to hole 3 and tray 1
+Move the Endive from hole 4 and tray 0 to hole 0 and tray 2
+Move the Fennel from hole 1 and tray 1 to hole 2 and tray 0
+Move the Fennel from hole 2 and tray 1 to hole 1 and tray 0
+Move the Fennel from hole 3 and tray 1 to hole 3 and tray 0
+Move the Fennel from hole 4 and tray 1 to hole 0 and tray 0
+Move the Cabbage from hole 0 and tray 6 to hole 4 and tray 7
+Move the Cabbage from hole 1 and tray 6 to hole 2 and tray 7
+Move the Cabbage from hole 3 and tray 6 to hole 0 and tray 7
+Move the Cabbage from hole 0 and tray 7 to hole 0 and tray 5
+Move the Cabbage from hole 2 and tray 7 to hole 4 and tray 5
+Move the Cabbage from hole 4 and tray 7 to hole 2 and tray 5
+Plant a seed of Strawberry to hole 0 and tray 6
+Plant a seed of Strawberry to hole 1 and tray 6
+Plant a seed of Strawberry to hole 2 and tray 6
+Plant a seed of Strawberry to hole 3 and tray 6
+Plant a seed of Strawberry to hole 4 and tray 6
+Plant a seed of Endive to hole 4 and tray 0
+DAY 5
+Move the Endive from hole 4 and tray 0 to hole 4 and tray 2
+Move the Endive from hole 2 and tray 2 to hole 3 and tray 7
+Move the Endive from hole 4 and tray 2 to hole 1 and tray 7
+Move the Cabbage from hole 1 and tray 7 to hole 1 and tray 5
+Move the Cabbage from hole 3 and tray 7 to hole 3 and tray 5
+Plant a seed of Endive to hole 0 and tray 0
+Plant a seed of Endive to hole 3 and tray 0
+Plant a seed of Endive to hole 4 and tray 0
+Plant a seed of Cabbage to hole 0 and tray 6
+Plant a seed of Cabbage to hole 3 and tray 6
+DAY 6
+Harvest plant Fennel from hole 0 and tray 0
+Harvest plant Fennel from hole 1 and tray 0
+Harvest plant Fennel from hole 2 and tray 0
+Harvest plant Fennel from hole 3 and tray 0
+Move the Endive from hole 4 and tray 0 to hole 2 and tray 2
+Harvest plant Lettuce from hole 0 and tray 1
+Move the Raddish from hole 0 and tray 4 to hole 4 and tray 7
+Move the Raddish from hole 1 and tray 4 to hole 0 and tray 7
+Move the Raddish from hole 2 and tray 4 to hole 1 and tray 7
+Move the Raddish from hole 3 and tray 4 to hole 3 and tray 7
+Move the Raddish from hole 4 and tray 4 to hole 2 and tray 7
+Harvest plant Cabbage from hole 0 and tray 5
+Harvest plant Cabbage from hole 2 and tray 5
+Harvest plant Cabbage from hole 4 and tray 5
+Move the Strawberry from hole 0 and tray 6 to hole 0 and tray 4
+Move the Strawberry from hole 1 and tray 6 to hole 3 and tray 4
+Move the Strawberry from hole 2 and tray 6 to hole 2 and tray 4
+Move the Strawberry from hole 3 and tray 6 to hole 1 and tray 4
+Move the Strawberry from hole 4 and tray 6 to hole 4 and tray 4
+Move the Cabbage from hole 0 and tray 7 to hole 2 and tray 5
+Harvest plant Endive from hole 1 and tray 7
+Move the Cabbage from hole 2 and tray 7 to hole 4 and tray 5
+Harvest plant Endive from hole 3 and tray 7
+Move the Cabbage from hole 4 and tray 7 to hole 0 and tray 5
+Plant a seed of Endive to hole 4 and tray 0
+Plant a seed of Cabbage to hole 0 and tray 6
+Plant a seed of Cabbage to hole 1 and tray 6
+Plant a seed of Raddish to hole 1 and tray 4
+Plant a seed of Raddish to hole 2 and tray 4
+Plant a seed of Raddish to hole 3 and tray 4
+DAY 7
+Move the Endive from hole 0 and tray 0 to hole 1 and tray 2
+Move the Endive from hole 3 and tray 0 to hole 3 and tray 2
+Move the Endive from hole 4 and tray 0 to hole 0 and tray 2
+Harvest plant Lettuce from hole 1 and tray 1
+Move the Fennel from hole 2 and tray 1 to hole 1 and tray 0
+Harvest plant Lettuce from hole 3 and tray 1
+Move the Fennel from hole 4 and tray 1 to hole 3 and tray 0
+Move the Endive from hole 0 and tray 2 to hole 0 and tray 7
+Move the Endive from hole 1 and tray 2 to hole 2 and tray 7
+Move the Endive from hole 3 and tray 2 to hole 4 and tray 7
+Move the Strawberry from hole 0 and tray 4 to hole 3 and tray 1
+Move the Strawberry from hole 1 and tray 4 to hole 2 and tray 1
+Move the Strawberry from hole 2 and tray 4 to hole 1 and tray 1
+Move the Strawberry from hole 3 and tray 4 to hole 4 and tray 1
+Move the Strawberry from hole 4 and tray 4 to hole 0 and tray 1
+Harvest plant Cabbage from hole 1 and tray 5
+Harvest plant Cabbage from hole 3 and tray 5
+Move the Cabbage from hole 0 and tray 6 to hole 1 and tray 7
+Move the Cabbage from hole 3 and tray 6 to hole 3 and tray 7
+Harvest plant Raddish from hole 0 and tray 7
+Harvest plant Raddish from hole 1 and tray 7
+Harvest plant Raddish from hole 2 and tray 7
+Harvest plant Raddish from hole 3 and tray 7
+Harvest plant Raddish from hole 4 and tray 7
+Plant a seed of Lettuce to hole 2 and tray 0
+Plant a seed of Strawberry to hole 1 and tray 6
+Plant a seed of Strawberry to hole 4 and tray 6
+Plant a seed of Endive to hole 0 and tray 0
+Plant a seed of Cabbage to hole 0 and tray 6
+Plant a seed of Cabbage to hole 3 and tray 6
+DAY 8
+Move the Endive from hole 4 and tray 0 to hole 4 and tray 2
+Move the Endive from hole 4 and tray 2 to hole 0 and tray 7
+Harvest plant Cabbage from hole 0 and tray 5
+Harvest plant Cabbage from hole 2 and tray 5
+Harvest plant Cabbage from hole 4 and tray 5
+Move the Cabbage from hole 0 and tray 6 to hole 2 and tray 7
+Move the Cabbage from hole 1 and tray 6 to hole 4 and tray 7
+Harvest plant Endive from hole 0 and tray 7
+Harvest plant Endive from hole 2 and tray 7
+Harvest plant Endive from hole 4 and tray 7
+Plant a seed of Endive to hole 1 and tray 0
+Plant a seed of Endive to hole 3 and tray 0
+DAY 9
+Move the Endive from hole 0 and tray 0 to hole 2 and tray 2
+Harvest plant Fennel from hole 1 and tray 0
+Harvest plant Fennel from hole 3 and tray 0
+Move the Endive from hole 2 and tray 2 to hole 0 and tray 7
+Move the Cabbage from hole 0 and tray 6 to hole 3 and tray 7
+Move the Strawberry from hole 1 and tray 6 to hole 0 and tray 4
+Move the Cabbage from hole 3 and tray 6 to hole 1 and tray 7
+Move the Strawberry from hole 4 and tray 6 to hole 4 and tray 4
+Harvest plant Endive from hole 0 and tray 7
+Move the Cabbage from hole 1 and tray 7 to hole 0 and tray 5
+Move the Cabbage from hole 3 and tray 7 to hole 4 and tray 5
+Plant a seed of Fennel to hole 3 and tray 1
+Plant a seed of Fennel to hole 4 and tray 1
+Plant a seed of Endive to hole 0 and tray 0
+Plant a seed of Endive to hole 1 and tray 0
+Plant a seed of Cabbage to hole 0 and tray 6
+Plant a seed of Raddish to hole 4 and tray 4
+DAY 10
+Move the Endive from hole 1 and tray 0 to hole 0 and tray 2
+Move the Lettuce from hole 2 and tray 0 to hole 2 and tray 1
+Move the Endive from hole 3 and tray 0 to hole 1 and tray 2
+Harvest plant Strawberry from hole 0 and tray 1
+Harvest plant Strawberry from hole 1 and tray 1
+Harvest plant Strawberry from hole 2 and tray 1
+Harvest plant Strawberry from hole 3 and tray 1
+Harvest plant Strawberry from hole 4 and tray 1
+Move the Endive from hole 0 and tray 2 to hole 0 and tray 7
+Move the Endive from hole 1 and tray 2 to hole 2 and tray 7
+Move the Endive from hole 3 and tray 2 to hole 4 and tray 7
+Move the Strawberry from hole 0 and tray 4 to hole 0 and tray 1
+Move the Strawberry from hole 4 and tray 4 to hole 1 and tray 1
+Harvest plant Endive from hole 0 and tray 7
+Move the Cabbage from hole 2 and tray 7 to hole 1 and tray 5
+Move the Cabbage from hole 4 and tray 7 to hole 3 and tray 5
+Plant a seed of Lettuce to hole 0 and tray 0
+Plant a seed of Lettuce to hole 1 and tray 0
+Plant a seed of Lettuce to hole 3 and tray 0
+Plant a seed of Lettuce to hole 4 and tray 0
+Plant a seed of Strawberry to hole 0 and tray 6
+Plant a seed of Endive to hole 2 and tray 0
+Plant a seed of Cabbage to hole 1 and tray 6
+Plant a seed of Cabbage to hole 2 and tray 6
+Plant a seed of Cabbage to hole 4 and tray 6
+Plant a seed of Raddish to hole 0 and tray 4
+Plant a seed of Raddish to hole 2 and tray 4
+Plant a seed of Raddish to hole 3 and tray 4
+DAY 11
+Move the Endive from hole 0 and tray 0 to hole 4 and tray 2
+Move the Endive from hole 1 and tray 0 to hole 3 and tray 2
+Move the Endive from hole 4 and tray 2 to hole 0 and tray 7
+Move the Raddish from hole 1 and tray 4 to hole 2 and tray 7
+Move the Raddish from hole 2 and tray 4 to hole 3 and tray 7
+Move the Raddish from hole 3 and tray 4 to hole 4 and tray 7
+Harvest plant Cabbage from hole 0 and tray 5
+Harvest plant Cabbage from hole 4 and tray 5
+Move the Cabbage from hole 0 and tray 6 to hole 1 and tray 7
+Harvest plant Endive from hole 0 and tray 7
+Move the Cabbage from hole 1 and tray 7 to hole 4 and tray 5
+Harvest plant Endive from hole 2 and tray 7
+Move the Cabbage from hole 3 and tray 7 to hole 0 and tray 5
+Harvest plant Endive from hole 4 and tray 7
+DAY 12
+Move the Endive from hole 2 and tray 0 to hole 2 and tray 2
+Move the Endive from hole 2 and tray 2 to hole 4 and tray 7
+Harvest plant Cabbage from hole 1 and tray 5
+Harvest plant Cabbage from hole 3 and tray 5
+Move the Strawberry from hole 0 and tray 6 to hole 1 and tray 4
+Move the Cabbage from hole 1 and tray 6 to hole 0 and tray 7
+Move the Cabbage from hole 2 and tray 6 to hole 3 and tray 7
+Move the Cabbage from hole 4 and tray 6 to hole 2 and tray 7
+Harvest plant Endive from hole 0 and tray 7
+Harvest plant Raddish from hole 2 and tray 7
+Harvest plant Raddish from hole 3 and tray 7
+Harvest plant Raddish from hole 4 and tray 7
+DAY 13
+Move the Lettuce from hole 0 and tray 0 to hole 3 and tray 1
+Move the Lettuce from hole 1 and tray 0 to hole 2 and tray 1
+Move the Lettuce from hole 3 and tray 0 to hole 4 and tray 1
+Move the Lettuce from hole 4 and tray 0 to hole 0 and tray 1
+Harvest plant Strawberry from hole 0 and tray 1
+Harvest plant Strawberry from hole 1 and tray 1
+Harvest plant Lettuce from hole 2 and tray 1
+Move the Fennel from hole 3 and tray 1 to hole 2 and tray 0
+Move the Fennel from hole 4 and tray 1 to hole 3 and tray 0
+Move the Endive from hole 0 and tray 2 to hole 1 and tray 7
+Move the Endive from hole 1 and tray 2 to hole 4 and tray 7
+Move the Strawberry from hole 1 and tray 4 to hole 1 and tray 1
+Harvest plant Cabbage from hole 0 and tray 5
+Harvest plant Cabbage from hole 4 and tray 5
+Move the Cabbage from hole 1 and tray 7 to hole 1 and tray 5
+Harvest plant Endive from hole 4 and tray 7
+DAY 14
+Move the Endive from hole 3 and tray 2 to hole 4 and tray 7
+Move the Endive from hole 4 and tray 2 to hole 0 and tray 7
+Move the Raddish from hole 4 and tray 4 to hole 2 and tray 7
+Move the Cabbage from hole 0 and tray 7 to hole 4 and tray 5
+Harvest plant Endive from hole 1 and tray 7
+Move the Cabbage from hole 2 and tray 7 to hole 0 and tray 5
+Move the Cabbage from hole 3 and tray 7 to hole 2 and tray 5
+Harvest plant Endive from hole 4 and tray 7
+DAY 15
+Harvest plant Fennel from hole 2 and tray 0
+Harvest plant Fennel from hole 3 and tray 0
+Move the Endive from hole 2 and tray 2 to hole 4 and tray 7
+Move the Raddish from hole 0 and tray 4 to hole 2 and tray 7
+Move the Raddish from hole 2 and tray 4 to hole 0 and tray 7
+Move the Raddish from hole 3 and tray 4 to hole 1 and tray 7
+Harvest plant Cabbage from hole 1 and tray 5
+Harvest plant Endive from hole 0 and tray 7
+Harvest plant Raddish from hole 2 and tray 7
+Harvest plant Endive from hole 4 and tray 7
+DAY 16
+Harvest plant Lettuce from hole 0 and tray 1
+Harvest plant Strawberry from hole 1 and tray 1
+Harvest plant Lettuce from hole 2 and tray 1
+Harvest plant Lettuce from hole 3 and tray 1
+Harvest plant Lettuce from hole 4 and tray 1
+Harvest plant Cabbage from hole 0 and tray 5
+Harvest plant Cabbage from hole 2 and tray 5
+Harvest plant Cabbage from hole 4 and tray 5
+Harvest plant Raddish from hole 0 and tray 7
+Harvest plant Raddish from hole 1 and tray 7
+Harvest plant Raddish from hole 2 and tray 7
+Harvest plant Endive from hole 4 and tray 7

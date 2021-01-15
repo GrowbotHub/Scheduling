@@ -6,11 +6,20 @@ import edges
 import plants_array as plants
 import optimization as opti
 
+###  GRAPH CONSTRUCTION AND DRAW  ###
+
+# The graph
 g = None
+
+# The positions of all the nodes in the graph g
 pos = None
 
-def construction():
+## CONSTRUCTION ##
 
+# This function adds all the edges created before to the graph g
+def construction():
+	
+	global pos
 	global g
 	g = nx.DiGraph()
 
@@ -22,21 +31,21 @@ def construction():
 		add_edge_to_graph(edge)
 	for edge in edges.sink_edges:
 		add_edge_to_graph(edge)
-
-def add_edge_to_graph(e):
-    edge = (e.node_from, e.node_to)
-    g.add_edge(*edge, bounds=e.bounds, size=e.size)
-
-###     DRAW GRAPH      ####
-def draw_non_opti():
-	global pos
+	
 	pos = get_node_pos(g)
 
+## DRAW SIMPLE GRAPH ##
+
+# This function draws the graph before the optimization and put it in the graph.png file
+def draw_non_opti():
 	fig = plt.figure(figsize=(15, 8))
 	nx.draw(g, pos=pos, node_size=60, node_color='red', edgecolors='w', width=.3, linewidths=2, edge_color='grey')
 	savefig("graph.png")
 	print("Done with graph")
-	
+
+## DRAW OPTIMIZED GRAPH ##
+
+# This function draws the graph after optimization and shows the paths of all the plants (see optimized.png)
 def draw_opti():
 	fig = plt.figure(figsize=(20, 12))
 	limits = plt.axis("off")  # turn off axis
@@ -86,11 +95,15 @@ def draw_opti():
 	savefig("optimized.png")
 	print("Done with optimized graph")
 
+# Sub-function which creates the dictionnary that contains all the node positions to draw the graph g
 def get_node_pos(g):
     pos = dict()
     for node in g.nodes:
         pos[node] = (node.when, node.where)
     return pos
 
-
+# Sub-function which adds an edge to the graph g
+def add_edge_to_graph(e):
+    edge = (e.node_from, e.node_to)
+    g.add_edge(*edge, bounds=e.bounds, size=e.size)
 
